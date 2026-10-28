@@ -4,6 +4,10 @@
 
 It ships with eight starter stickers on `Shift + Alt + numpad` keys. Originally built for FigJam on Windows, which is where it's most tested.
 
+![Five starter stickers pasted one after another onto a tldraw canvas](docs/demo.gif)
+
+<sub>Five starter stickers pasted onto a tldraw canvas, as each hotkey does: the sticker's SVG goes on the clipboard and is pasted with Ctrl + V.</sub>
+
 ## What it does
 
 Reviewing a board, running a retro or marking up a flow means placing the same few markers again and again. This is a small [AutoHotkey v2](https://www.autohotkey.com/) script that maps keyboard shortcuts to SVG files and pastes them into the canvas you're looking at. The starter set:
