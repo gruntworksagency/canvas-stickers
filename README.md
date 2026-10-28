@@ -1,3 +1,5 @@
+![Canvas Stickers: a check, X, arrow, warning and star sticker above the Shift, Alt and Num 1 keys](docs/banner.png)
+
 # Canvas Stickers
 
 **One keystroke, one sticker.** Map your own SVG stickers to keyboard shortcuts and paste them onto browser-based canvas apps that accept SVG, such as FigJam, tldraw and Excalidraw, without leaving the keyboard to dig through a menu or a library.
