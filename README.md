@@ -2,6 +2,8 @@
 
 # Canvas Stickers
 
+> 🤖 **Easiest setup:** give this repo's link to your Claude or Codex agent and ask it to install Canvas Stickers for you.
+
 **One keystroke, one sticker.** Map your own SVG stickers to keyboard shortcuts and paste them onto browser-based canvas apps that accept SVG, such as FigJam, tldraw and Excalidraw, without leaving the keyboard to dig through a menu or a library.
 
 It ships with eight starter stickers on `Shift + Alt + numpad` keys. Originally built for FigJam on Windows, which is where it's most tested.
